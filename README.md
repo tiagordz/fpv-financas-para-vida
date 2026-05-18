@@ -157,10 +157,6 @@ O app foi desenvolvido com layout **mobile-first** e funciona perfeitamente no n
 
 ## 👤 Tiago A R Resende
 
-Feito com 💚 usando **vibe-coding** e muita vontade de aprender.
-
-> *"Finanças para vida — não só para sobreviver, mas para construir o futuro que você quer."*
-
 ---
 
 <div align="center">
