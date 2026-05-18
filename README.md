@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[🚀 Acessar o App](https://fpv-financas-para-vida.lovable.app) · [📖 Documentação](#-tecnologias) · [✨ Features](#-funcionalidades)
+[🚀 Acessar o App](https://fpv-financas-para-vida.lovable.app) · [✨ Features](#-funcionalidades)
 
 ![dark mode](https://img.shields.io/badge/tema-dark%20%7C%20light-black?style=flat-square)
 ![mobile first](https://img.shields.io/badge/layout-mobile--first-blue?style=flat-square)
